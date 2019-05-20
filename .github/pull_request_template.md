@@ -1,0 +1,14 @@
+## Checklist
+- [ ] Pull branch
+- [ ] Run npm run tests
+- [ ] Run npm run flow
+- [ ] Run npm run lint:prettier
+- Run each (applicable) sector
+  - [ ] Clear application state (or run in incognito)
+  - [ ] Localize for delivery
+  - [ ] Localize for collection
+  - [ ] Get to checkout
+  - [ ] Check applicable functionality that code may affect
+- [ ] Test your feature against our tier 1 supported browsers and devices
+- [ ] Run all synths and end 2 end tests against your work 
+- [ ] Demo your feature priori to release to a fellow developer and your product manager
